@@ -1,0 +1,11 @@
+.tb01{
+	border:none;
+}
+.tb01 th{
+	border-bottom:1px solid #000;
+	padding:3px;white-space:nowrap;
+}
+.tb01 td{
+	border-bottom:1px solid #77ba00;
+	padding:3px;
+}

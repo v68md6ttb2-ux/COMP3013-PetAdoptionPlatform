@@ -1,0 +1,8 @@
+# 981MB demo video is distributed as a GitHub Release asset
+COMP3013_24F_Group13_Demo.MOV
+*.MOV
+
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log
